@@ -1,88 +1,75 @@
+<div align="center">
+  <!-- Premium Apple-inspired Wave Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:007AFF,100:5856D6&height=220&section=header&text=Soham%20Gurav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+
+  <!-- Sleek, Minimalist Mono Subtitles -->
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display,JetBrains+Mono&size=18&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems.;AI+%26+Machine+Learning+Engineer.;Full-Stack+Developer." />
+
+  <br />
+
+  <!-- Premium Unified Badge Style -->
+  <a href="https://www.linkedin.com/in/soham-gurav-1a6802273" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007AFF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sohamgurav456123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1C1C1E?style=flat-square&logo=gmail&logoColor=FF453A" alt="Email"/>
+  </a>
+</div>
+
+<br />
+
+---
+
+###  Profile
+
+┌─────────────────────────────────────────────────────────────────┐
+│  Soham Gurav                                                    │
+│  Computer Science Student • AI/ML Engineer                      │
+│  Based in Mumbai, India                                         │
+└─────────────────────────────────────────────────────────────────┘
+
+
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, dedicated to architecting practical, real-world systems. My work bridges the gap between clean full-stack architecture and high-performance applied AI pipelines. 
+
+Driven by a learn-by-building ethos, I focus on creating scalable, user-centric software that pairs intentional design with robust engineering.
+
+---
+
+###  Tech Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Languages** | `Python` `C++` `Java` `TypeScript` `JavaScript` `C` `C#` |
+| **Frameworks & Web** | `Next.js` `React` `FastAPI` `Node.js` `Django` `Flask` `Angular` `TailwindCSS` |
+| **AI & Data Pipelines** | `PyTorch` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` |
+| **Data & Infrastructure** | `PostgreSQL` `MongoDB` `Redis` `MySQL` `Firebase` `GCP` `Vercel` |
+| **Tools & Creative** | `Git` `Linux` `Docker` `Figma` `Blender` `Unity` `Unreal Engine` |
+
+<br />
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=190&section=header&text=Soham%20Gurav&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8AB4F8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Real-World+Intelligent+Systems" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/soham-gurav-1a6802273">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sohamgurav456123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-
+  <!-- Minimalist, cohesive icon ecosystem -->
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,fastapi,pytorch,postgres,gcp,docker,git&theme=dark"/>
 </div>
 
 ---
 
-## About Me
-
-
-Born & raised in Mumbai, India 🇮🇳
-Computer Science student (AI & ML focused)
-Curious, system-oriented thinker
-Learn-by-building believer
-Aspiring Software Engineer & AI Developer
-
-
-I am a **Computer Science student with a strong focus on Artificial Intelligence and Machine Learning**, driven by a passion for building **practical, real-world solutions**.
-My experience spans **full-stack development, backend systems, and applied AI**, using modern frameworks and scalable architectures.
-
-I enjoy **hands-on experimentation**, continuous learning, and designing systems that balance **innovation, usability, and performance**.
-
----
-
-## Tech Stack
+###  Activity Insights
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts&theme=dark"/>
-
-### Web & Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,django,flask,fastapi,tailwind,bootstrap&theme=dark"/>
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,vercel,netlify,gcp&theme=dark"/>
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge"/>
-
-### Creative & Tools
-
-<img src="https://skillicons.dev/icons?i=blender,unity,unreal,figma,git,github,linux&theme=dark"/>
-
+  <!-- Clean, borderless Tokyonight / Dark Glass themed metrics -->
+  <img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=Soham-Gurav&theme=tokyonight&hide_border=true&background=1C1C1E&ring=007AFF&fire=007AFF"/>
 </div>
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Soham-Gurav&theme=tokyonight&hide_border=true"/>
-
+  <!-- Clean, Cupertino-inspired code philosophy quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  
+  <br />
+  
+  <!-- Symmetric Footer Wave closing the layout -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5856D6,100:007AFF&height=100&section=footer"/> 
 </div>
-
----
-
-##  Dev Philosophy
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/> 
-</div>
-
-
