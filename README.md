@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Premium Apple-inspired Wave Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,30:5856D6,70:007AFF,100:0A84FF&height=220&section=header&text=Soham%20Gurav&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Architecting%20the%20Future&descSize=20&descColor=A1A1A6&descAlignY=64"/>
+  <!-- Minimalist Matrix Transparent Header -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&stroke=00FF41&height=180&section=header&text=Soham%20Gurav&fontSize=70&fontColor=00FF41&animation=twinkling&fontAlignY=45&desc=System%20Architect%20%7C%20AI%20Engineer&descSize=20&descColor=A1A1A6&descAlignY=70"/>
 
   <!-- Sleek, Minimalist Mono Subtitles -->
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display,JetBrains+Mono&size=18&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems.;AI+%26+Machine+Learning+Engineer.;Full-Stack+Developer." />
