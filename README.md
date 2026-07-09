@@ -1,33 +1,34 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=190&section=header&text=Soham%20Gurav&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
+<img src="./assets/banner.png" alt="I may not be a God but I have created my own World" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8AB4F8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Real-World+Intelligent+Systems" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=System+Breach+in+Progress...;I+may+not+be+a+God...;...but+I+have+created+my+own+World.;Welcome+to+the+Matrix.;Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/soham-gurav-1a6802273">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
 <a href="mailto:sohamgurav456123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
+  <h2>Wake up, Neo...</h2>
+</div>
 
-
-Born & raised in Mumbai, India 🇮🇳
-Computer Science student (AI & ML focused)
-Curious, system-oriented thinker
-Learn-by-building believer
-Aspiring Software Engineer & AI Developer
-
+Born & raised in Mumbai, India 🇮🇳<br/>
+Computer Science student (AI & ML focused)<br/>
+Curious, system-oriented thinker<br/>
+Learn-by-building believer<br/>
+Aspiring Software Engineer & AI Developer<br/>
 
 I am a **Computer Science student with a strong focus on Artificial Intelligence and Machine Learning**, driven by a passion for building **practical, real-world solutions**.
 My experience spans **full-stack development, backend systems, and applied AI**, using modern frameworks and scalable architectures.
@@ -36,7 +37,9 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 ---
 
-## Tech Stack
+<div align="center">
+  <h2>System Architecture</h2>
+</div>
 
 <div align="center">
 
@@ -56,9 +59,9 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=00FF41"/>
 
 ### Creative & Tools
 
@@ -68,21 +71,23 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 ---
 
-## GitHub Stats
+<div align="center">
+  <h2>Data Flow</h2>
+</div>
 
 <div align="center">
 
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Soham-Gurav&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Soham-Gurav&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41"/>
 
 </div>
 
 ---
 
-##  Dev Philosophy
-
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/> 
+  <h2>The Construct</h2>
 </div>
 
-
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&title_color=00FF41&text_color=00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=footer"/> 
+</div>
