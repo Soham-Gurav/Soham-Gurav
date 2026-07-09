@@ -58,8 +58,8 @@ Driven by a learn-by-building ethos, I focus on creating scalable, user-centric 
 ###  Activity Insights
 
 <div align="center">
-  <!-- Clean, borderless Tokyonight / Dark Glass themed metrics -->
-  <img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=Soham-Gurav&theme=tokyonight&hide_border=true&background=1C1C1E&ring=007AFF&fire=007AFF"/>
+  <!-- Isometric Commit Calendar -->
+  <img src="https://metrics.lecoq.io/Soham-Gurav?base=0&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&theme=dark" alt="Soham-Gurav Isometric Calendar"/>
 </div>
 
 ---
