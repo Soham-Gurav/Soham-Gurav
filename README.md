@@ -58,8 +58,8 @@ Driven by a learn-by-building ethos, I focus on creating scalable, user-centric 
 ###  Activity Insights
 
 <div align="center">
-  <!-- Isometric Commit Calendar -->
-  <img src="https://metrics.lecoq.io/Soham-Gurav?base=0&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&theme=dark" alt="Soham-Gurav Isometric Calendar"/>
+  <!-- Isometric Commit Calendar (Generated via GitHub Action) -->
+  <img src="./assets/github-metrics.svg" alt="Soham-Gurav Isometric Calendar"/>
 </div>
 
 ---
