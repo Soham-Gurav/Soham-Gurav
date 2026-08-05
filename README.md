@@ -21,14 +21,7 @@
 
 ---
 
-###  Profile
-
-┌─────────────────────────────────────────────────────────────────┐
-│  Soham Gurav                                                    │
-│  Computer Science Student • AI/ML Engineer                      │
-│  Based in Mumbai, India                                         │
-└─────────────────────────────────────────────────────────────────┘
-
+###  Profile
 
 I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, dedicated to architecting practical, real-world systems. My work bridges the gap between clean full-stack architecture and high-performance applied AI pipelines. 
 
